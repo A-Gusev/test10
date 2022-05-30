@@ -1,0 +1,58 @@
+1. Зарегистрироваться на https://github.com/
+2. Создать новый репозиторий.
+3. Установить Git (https://git-scm.com/downloads)
+
+
+#Установим имя для вашего пользователя
+#Вместо <ваше_имя> можно ввести, например, Grisha_Popov
+#Кавычки оставляем
+git config --global user.name "<ваше_имя>"
+
+#Теперь установим email. Принцип тот же.
+git config --global user.email "<адрес_почты@email.com>"
+
+
+
+
+Создадим наш первый репозиторий. Для этого пройдите в папку вашего проекта.
+
+#Для Linux и MacOS путь может выглядеть так /Users/UserName/Desktop/MyProject
+#Для Windows например С://MyProject
+cd <путь_к_вашему_проекту>
+
+#Инициализация/создание репозитория
+git init
+
+
+
+
+git remote add <shortname> <url>
+
+Мвязали репозиторий по короткому имяни test
+git remote add test https://github.com/A-Gusev/test10.git
+
+
+Получаем изменения из репозитория
+git fetch test 
+
+
+
+
+
+
+Настрйока токена
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+
+
+Мой логин A-gusev
+Мой токен: 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
+
+
+
+Пробуем заново с git (сначала клонируем)
+
+git clone https://github.com/A-Gusev/test10.git
+
+ 
+
