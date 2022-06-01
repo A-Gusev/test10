@@ -38,15 +38,13 @@ git fetch test
 
 
 
-
-
 Настрйока токена
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 
 
 Мой логин A-gusev
-Мой токен: 123456
+Мой токен: ****************
 
 
 
