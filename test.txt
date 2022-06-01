@@ -46,13 +46,10 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 
 
 Мой логин A-gusev
-Мой токен: jhgjhbgjhbgjhkbjhkbgjkgujk
+Мой токен: 123456
 
 
 
 Пробуем заново с git (сначала клонируем)
 
 git clone https://github.com/A-Gusev/test10.git
-
- 
-
